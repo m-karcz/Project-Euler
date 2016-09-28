@@ -25,12 +25,6 @@ auto main()->int{
 	}
 	input.close();
 	std::reverse(begin(pyramid),end(pyramid));
-	for(auto &v : pyramid){
-		for(auto &num : v){
-			std::cout << num << " ";
-		}
-		std::cout << std::endl;
-	}
 	for(int y=1; y<pyramid.size(); y++)
 	{
 		for(int x=0; x<pyramid[y].size(); x++)

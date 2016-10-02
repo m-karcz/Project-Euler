@@ -12,3 +12,4 @@ I guess only easy problems will be solved.
 - Problem 31 - Coin sums
 - Problem 39 - Integer right triangles
 - Problem 67 - Maximum path sum II
+- Problem 92 - Square digit chains

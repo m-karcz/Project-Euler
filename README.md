@@ -13,6 +13,8 @@ I guess only easy problems will be solved.
 - Problem 6 - Sum square difference
 - Problem 7 - 10001st prime
 - Problem 8 - Largest product in series
+- Problem 9 - Special Pythagorean triplet
+- Problem 14 - Longest Collatz sequence
 - Problem 15 - Lattice paths
 - Problem 16 - Power digit sum
 - Problem 18 - Maximum path sum I

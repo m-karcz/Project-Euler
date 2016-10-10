@@ -17,6 +17,8 @@ I guess only easy problems will be solved.
 - Problem 9 - Special Pythagorean triplet
 - Problem 10 - Summation of primes
 - Problem 11 - Largest product in a grid
+- Problem 12 - Highly divisible triangular numbers
+- Problem 13 - Large sum
 - Problem 14 - Longest Collatz sequence
 - Problem 15 - Lattice paths
 - Problem 16 - Power digit sum

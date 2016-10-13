@@ -30,9 +30,6 @@ public class Problem21{
         }
       }
     }
-    foreach(var num in amicables){
-      Console.WriteLine(num);
-    }
     Console.WriteLine(amicables.Sum());
   }
 }

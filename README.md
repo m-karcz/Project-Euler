@@ -26,6 +26,8 @@ I guess only easy problems will be solved.
 - Problem 18 - Maximum path sum I
 - Problem 19 - Counting Sundays
 - Problem 20 - Factorial digit sum
+- Problem 21 - Amicable numbers
+- Problem 25 - 1000-digit Fibonacci number
 - Problem 31 - Coin sums
 - Problem 39 - Integer right triangles
 - Problem 67 - Maximum path sum II

@@ -7,9 +7,6 @@ public class Problem21{
     var amicables=new HashSet<int>();
     for(int n=1; n<10000; n++){
       int sum=0;
-      if(n%100==0){
-      //  Console.WriteLine(n);
-      }
       for(int m=1; m<n; m++){
         if(n/m*m==n){
           sum+=m;

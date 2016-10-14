@@ -7,6 +7,7 @@ I guess only easy problems will be solved.
 ### Done so far:
 for n in range(1,28):
   - Problem n
+
 and:
 - Problem 31 - Coin sums
 - Problem 39 - Integer right triangles

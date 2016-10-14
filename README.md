@@ -32,6 +32,7 @@ I guess only easy problems will be solved.
 - Problem 24 - Lexicographic permutations
 - Problem 25 - 1000-digit Fibonacci number
 - Problem 26 - Reciprocal cycles
+- Problem 27 - Quadratic primes
 - Problem 31 - Coin sums
 - Problem 39 - Integer right triangles
 - Problem 67 - Maximum path sum II

@@ -11,6 +11,7 @@ for n in range(1,32):
   - Problem n
 
 and:
+- Problem 37 - Truncatable primes
 - Problem 39 - Integer right triangles
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations

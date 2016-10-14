@@ -5,11 +5,10 @@ My programs which I used to solve ProjectEuler problems.
 I guess only easy problems will be solved.
 
 ### Done so far:
-for n in range(1,28):
+for n in range(1,32):
   - Problem n
 
 and:
-- Problem 31 - Coin sums
 - Problem 39 - Integer right triangles
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations

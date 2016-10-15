@@ -7,12 +7,10 @@ My programs which I used to solve ProjectEuler problems.
 I guess only easy problems will be solved.
 
 ### Done so far:
-for n in range(1,32):
+for n in range(1,35):
   - Problem n
 
 and:
-- Problem 34 - Digit factorials
-- Problem 35 - Circular primes
 - Problem 37 - Truncatable primes
 - Problem 39 - Integer right triangles
 - Problem 67 - Maximum path sum II

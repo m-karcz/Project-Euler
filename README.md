@@ -7,7 +7,7 @@ My programs which I used to solve ProjectEuler problems.
 I guess only easy problems will be solved.
 
 ### Done so far:
-for n in range(1,41):
+for n in range(1,43):
   - Problem n
 
 and:

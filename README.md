@@ -12,6 +12,7 @@ for n in range(1,43):
 
 and:
 - Problem 45 - Triangular, pentagonal and hexagonal
+- Problem 52 - Permuted multiplies
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations
 - Problem 81 - Path sum: two ways

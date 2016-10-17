@@ -12,6 +12,8 @@ for n in range(1,43):
 
 and:
 - Problem 45 - Triangular, pentagonal and hexagonal
+- Problem 46 - Goldbach's other conjecture
+- Problem 50 - Consecutive prime sum
 - Problem 52 - Permuted multiplies
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations
@@ -19,4 +21,5 @@ and:
 - Problem 82 - Path sum: three ways
 - Problem 83 - Path sum: four ways
 - Problem 92 - Square digit chains
+- Problem 99 - Largest exponential
 - Problem 206 - Concealed square

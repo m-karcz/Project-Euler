@@ -7,13 +7,10 @@ My programs which I used to solve ProjectEuler problems.
 I guess only easy problems will be solved.
 
 ### Done so far:
-for n in range(1,43):
+for n in range(1,48):
   - Problem n
 
 and:
-- Problem 45 - Triangular, pentagonal and hexagonal
-- Problem 46 - Goldbach's other conjecture
-- Problem 48 - Self powers
 - Problem 50 - Consecutive prime sum
 - Problem 52 - Permuted multiplies
 - Problem 67 - Maximum path sum II

@@ -1,8 +1,9 @@
 #pragma once
 
-#include <vector>
+#include <list>
 #include <cmath>
 #include <iterator>
+#include <list>
 
 template <typename T>
 class PrimeGen{
@@ -10,10 +11,10 @@ public:
   PrimeGen(){vect.push_back(2);vect.push_back(3);vect.push_back(5);};
   T generate_next(void);
   T last(void);
-  typename std::vector<T>::iterator begin(void);
-  typename std::vector<T>::iterator end(void);
-private:
-  std::vector<T> vect;
+  void remove(typename std::list<T>::iterator start, typename std::list<T>::iterator end);
+  typename std::list<T>::iterator begin(void);
+  typename std::list<T>::iterator end(void);
+  std::list<T> vect;
 };
 
 template <typename T>
@@ -45,11 +46,17 @@ T PrimeGen<T>::last(void){
 }
 
 template <typename T>
-typename std::vector<T>::iterator PrimeGen<T>::begin(){
+typename std::list<T>::iterator PrimeGen<T>::begin(){
   return vect.begin();
 }
 
 template <typename T>
-typename std::vector<T>::iterator PrimeGen<T>::end(){
+typename std::list<T>::iterator PrimeGen<T>::end(){
   return vect.end();
+}
+
+template <typename T>
+void PrimeGen<T>::remove(typename std::list<T>::iterator start, typename std::list<T>::iterator end){
+  vect.erase(start, end);
+  return;
 }

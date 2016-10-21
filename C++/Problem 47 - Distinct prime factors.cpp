@@ -15,7 +15,7 @@ int main(){
     if(primes.last()<cand){
       while(primes.generate_next()<cand){}
     }
-    for(auto it=begin(primes.vect); it!=end(primes.vect); it++){
+    for(auto it=begin(primes); it!=end(primes); it++){
       if(cand_copy/(*it)*(*it)==cand_copy){
         factors++;
         while(cand_copy/(*it)*(*it)==cand_copy){

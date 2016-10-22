@@ -13,6 +13,7 @@ for n in range(1,50):
 and:
 - Problem 52 - Permuted multiplies
 - Problem 53 - Combinatoric selections
+- Problem 58 - Spiral primes
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations
 - Problem 81 - Path sum: two ways

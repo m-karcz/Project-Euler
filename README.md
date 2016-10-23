@@ -7,12 +7,11 @@ My programs which I used to solve ProjectEuler problems.
 I guess only easy problems will be solved.
 
 ### Done so far:
-for n in range(1,50):
+for n in range(1,53):
   - Problem n
 
 and:
-- Problem 52 - Permuted multiplies
-- Problem 53 - Combinatoric selections
+- Problem 57 - Square root convergents
 - Problem 58 - Spiral primes
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations

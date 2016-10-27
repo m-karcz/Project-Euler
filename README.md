@@ -11,8 +11,10 @@ for n in range(1,54):
   - Problem n
 
 and:
+- Problem 56 - Powerful digit sum
 - Problem 57 - Square root convergents
 - Problem 58 - Spiral primes
+- Problem 62 - Cubic permutations
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations
 - Problem 81 - Path sum: two ways

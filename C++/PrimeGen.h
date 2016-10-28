@@ -14,6 +14,7 @@ public:
   void remove(typename std::list<T>::iterator start, typename std::list<T>::iterator end);
   typename std::list<T>::iterator begin(void);
   typename std::list<T>::iterator end(void);
+private:
   std::list<T> vect;
 };
 

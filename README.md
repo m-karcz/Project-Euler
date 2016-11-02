@@ -17,6 +17,7 @@ and:
 - Problem 62 - Cubic permutations
 - Problem 67 - Maximum path sum II
 - Problem 76 - Counting summations
+- Problem 79 - Passcode derivation
 - Problem 81 - Path sum: two ways
 - Problem 82 - Path sum: three ways
 - Problem 83 - Path sum: four ways

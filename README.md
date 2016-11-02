@@ -16,6 +16,7 @@ and:
 - Problem 58 - Spiral primes
 - Problem 62 - Cubic permutations
 - Problem 67 - Maximum path sum II
+- Problem 71 - Ordered fractions
 - Problem 76 - Counting summations
 - Problem 79 - Passcode derivation
 - Problem 81 - Path sum: two ways

@@ -7,13 +7,10 @@ My programs which I used to solve ProjectEuler problems.
 I guess only easy problems will be solved.
 
 ### Done so far:
-for n in range(1,54):
+for n in range(1,58):
   - Problem n
 
 and:
-- Problem 56 - Powerful digit sum
-- Problem 57 - Square root convergents
-- Problem 58 - Spiral primes
 - Problem 62 - Cubic permutations
 - Problem 67 - Maximum path sum II
 - Problem 71 - Ordered fractions

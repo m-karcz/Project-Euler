@@ -21,6 +21,7 @@ and:
 - Problem 82 - Path sum: three ways
 - Problem 83 - Path sum: four ways
 - Problem 92 - Square digit chains
+- Problem 96 - Su Doku
 - Problem 97 - Lathe non-Mersenne prime
 - Problem 99 - Largest exponential
 - Problem 102 - Triangle containment

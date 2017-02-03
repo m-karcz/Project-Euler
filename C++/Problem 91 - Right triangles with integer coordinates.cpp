@@ -9,14 +9,6 @@ struct Point
 	{
 		return this->y < other.y || (this->y==other.y && this->x < other.x);
 	}
-	void move_to_next(int bound)
-	{
-		if(++y>bound)
-		{
-			y=0;
-			x++;
-		}
-	}
 	Point get_prev(int bound)
 	{
 		Point p(x-1, y);

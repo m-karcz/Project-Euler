@@ -14,6 +14,7 @@ and:
 - Problem 62 - Cubic permutations
 - Problem 63 - Powerful digit counts
 - Problem 67 - Maximum path sum II
+- Problem 69 - Totient maximum
 - Problem 71 - Ordered fractions
 - Problem 76 - Counting summations
 - Problem 79 - Passcode derivation

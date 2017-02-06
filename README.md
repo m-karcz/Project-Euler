@@ -31,3 +31,4 @@ and:
 - Problem 102 - Triangle containment
 - Problem 112 - Bouncy numbers
 - Problem 206 - Concealed square
+- Problem 345 - Matrix Sum

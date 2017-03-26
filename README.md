@@ -7,15 +7,15 @@ My programs which I used to solve ProjectEuler problems.
 I guess only easy problems will be solved.
 
 ### Done so far:
-for n in range(1,59):
+for n in range(1,63):
   - Problem n
 
 and:
-- Problem 62 - Cubic permutations
-- Problem 63 - Powerful digit counts
 - Problem 67 - Maximum path sum II
 - Problem 69 - Totient maximum
 - Problem 71 - Ordered fractions
+- Problem 73 - Counting fractions in a range
+- Problem 74 - Digit factorial chains
 - Problem 76 - Counting summations
 - Problem 79 - Passcode derivation
 - Problem 81 - Path sum: two ways
@@ -32,3 +32,4 @@ and:
 - Problem 112 - Bouncy numbers
 - Problem 206 - Concealed square
 - Problem 345 - Matrix Sum
+- Problem 357 - Prime generating integers

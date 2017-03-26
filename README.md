@@ -33,3 +33,4 @@ and:
 - Problem 206 - Concealed square
 - Problem 345 - Matrix Sum
 - Problem 357 - Prime generating integers
+- Problem 387 - Harshad Numbers

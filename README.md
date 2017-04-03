@@ -30,6 +30,7 @@ and:
 - Problem 99 - Largest exponential
 - Problem 102 - Triangle containment
 - Problem 112 - Bouncy numbers
+- Problem 179 - Consecutive positive divisors
 - Problem 206 - Concealed square
 - Problem 345 - Matrix Sum
 - Problem 357 - Prime generating integers

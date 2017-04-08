@@ -36,3 +36,4 @@ and:
 - Problem 345 - Matrix Sum
 - Problem 357 - Prime generating integers
 - Problem 387 - Harshad Numbers
+- Problem 587 - Concave triangle

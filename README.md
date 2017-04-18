@@ -29,6 +29,7 @@ and:
 - Problem 97 - Lathe non-Mersenne prime
 - Problem 99 - Largest exponential
 - Problem 102 - Triangle containment
+- Problem 107 - Minimal network
 - Problem 112 - Bouncy numbers
 - Problem 124 - Ordered radicals
 - Problem 179 - Consecutive positive divisors

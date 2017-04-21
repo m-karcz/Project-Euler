@@ -31,6 +31,7 @@ and:
 - Problem 102 - Triangle containment
 - Problem 107 - Minimal network
 - Problem 112 - Bouncy numbers
+- Problem 116 - Red, green or blue tiles
 - Problem 124 - Ordered radicals
 - Problem 179 - Consecutive positive divisors
 - Problem 203 - Squarefree Binomial Coefficients

@@ -32,6 +32,7 @@ and:
 - Problem 107 - Minimal network
 - Problem 112 - Bouncy numbers
 - Problem 116 - Red, green or blue tiles
+- Problem 117 - Red, green and blue tiles
 - Problem 124 - Ordered radicals
 - Problem 179 - Consecutive positive divisors
 - Problem 203 - Squarefree Binomial Coefficients

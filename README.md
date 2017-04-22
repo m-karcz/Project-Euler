@@ -32,6 +32,7 @@ and:
 - Problem 107 - Minimal network
 - Problem 109 - Darts
 - Problem 112 - Bouncy numbers
+- Problem 125 - Palindromic sums
 - Problem 116 - Red, green or blue tiles
 - Problem 117 - Red, green and blue tiles
 - Problem 124 - Ordered radicals

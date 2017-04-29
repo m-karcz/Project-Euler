@@ -36,6 +36,7 @@ and:
 - Problem 116 - Red, green or blue tiles
 - Problem 117 - Red, green and blue tiles
 - Problem 124 - Ordered radicals
+- Problem 173 - Hollow square laminaes
 - Problem 179 - Consecutive positive divisors
 - Problem 203 - Squarefree Binomial Coefficients
 - Problem 206 - Concealed square

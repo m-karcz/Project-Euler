@@ -1,4 +1,4 @@
-# ProjectEuler
+# ProjectEuler - Yay, 100 problems solved!
 
 <img src="https://projecteuler.net/profile/MamCieNaHita.png" />
 

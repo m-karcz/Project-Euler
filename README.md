@@ -39,6 +39,8 @@ and:
 - Problem 173 - Hollow square laminaes
 - Problem 179 - Consecutive positive divisors
 - Problem 203 - Squarefree Binomial Coefficients
+- Problem 204 - Generalised Hamming Numbers
+- Problem 205 - Dice Game
 - Problem 206 - Concealed square
 - Problem 345 - Matrix Sum
 - Problem 357 - Prime generating integers

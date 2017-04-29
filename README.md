@@ -38,6 +38,7 @@ and:
 - Problem 124 - Ordered radicals
 - Problem 173 - Hollow square laminaes
 - Problem 179 - Consecutive positive divisors
+- Problem 191 - Prize Strings
 - Problem 203 - Squarefree Binomial Coefficients
 - Problem 204 - Generalised Hamming Numbers
 - Problem 205 - Dice Game

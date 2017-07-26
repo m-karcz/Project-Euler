@@ -16,6 +16,7 @@ and:
 - Problem 71 - Ordered fractions
 - Problem 73 - Counting fractions in a range
 - Problem 74 - Digit factorial chains
+- Problem 75 - Singular integer right triangles
 - Problem 76 - Counting summations
 - Problem 79 - Passcode derivation
 - Problem 81 - Path sum: two ways

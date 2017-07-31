@@ -34,9 +34,11 @@ and:
 - Problem 109 - Darts
 - Problem 112 - Bouncy numbers
 - Problem 125 - Palindromic sums
+- Problem 127 - abc-hits
 - Problem 116 - Red, green or blue tiles
 - Problem 117 - Red, green and blue tiles
 - Problem 124 - Ordered radicals
+- Problem 144 - Investigating multiple reflections of a laser beam
 - Problem 173 - Hollow square laminaes
 - Problem 179 - Consecutive positive divisors
 - Problem 188 - The hyperexponentiation of a number

@@ -41,6 +41,7 @@ and:
 - Problem 144 - Investigating multiple reflections of a laser beam
 - Problem 173 - Hollow square laminaes
 - Problem 179 - Consecutive positive divisors
+- Problem 187 - Semiprimes
 - Problem 188 - The hyperexponentiation of a number
 - Problem 191 - Prize Strings
 - Problem 203 - Squarefree Binomial Coefficients
